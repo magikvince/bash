@@ -1,2 +1,2 @@
-# bash
-different bash scripts
+# linux scripts
+different shellscripts
